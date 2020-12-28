@@ -1,5 +1,5 @@
 # Customized_Burger_ordering_system_rawPHP
-Food Ordering System is a web application that manages the restaurant menu order between waiter and chef.
+Customized_Burger_ordering_system is a web application that manages the restaurant menu order between admin and customer.
 
 ## Login Details
 For admin:
