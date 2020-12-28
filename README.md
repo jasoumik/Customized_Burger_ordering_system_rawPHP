@@ -14,4 +14,4 @@ check database
 
 ### Notes
 1. This is not ready for production.
-2. All user created have same default password : abc123
+2. All user created have same default password : 123456
